@@ -1,4 +1,17 @@
 # VoiceBank-2023
+VoiceBank-2023 is the speech corpus specially designed for constructing personalized Mandarin text-to-speech (TTS) systems. 
+
+## Design of the VoiceBank-2023
+The VoiceBank-2023 corpus was designed to have two parts with eight sub-corpora:
+* Part 1 - VoiceBanking (sub-corpora 1 and 2):
+    * Sub-corpus 1: covers all Mandarin initial and final types
+    * Sub-corpus 2: enlarge sample size for voice-banking
+
+* Part 2- Common Phrases (sub-corpora 3 to 8)
+   * Sub-corpora 3 to 8: comprised of 1 to $\geq 6$-character phrases to enrich the communicative functions
+ 
+## Brief Statistics of the VoiceBank-2023 corpus
+
 
 
 
