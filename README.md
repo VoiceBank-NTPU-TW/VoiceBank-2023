@@ -46,7 +46,11 @@ The VoiceBank-2023 corpus was designed to have two parts with eight sub-corpora:
 
 
 ## Samples
-### Phase-2, speakerid=019, degree of the speech impairment=1
+Here, we provide four zipped files for dysarthria degrees 1, 2, 3, and 4. Note that the waveforms provided have been pitch- and speed-shifted by some signal processing methods to remove speaker identities without destroying the naturalness of the speech. 
+1. dysarthria degree 1 (fluent speech without speech impairment)
+2. dysarthria degree 2 (disfluent in prosody)
+3. dysarthria degree 3 (light dysarthria but high speech intelligibility)
+4. dysarthria degree 4 (dysarthria and low speech intelligibility)
 
 
 ## Download
