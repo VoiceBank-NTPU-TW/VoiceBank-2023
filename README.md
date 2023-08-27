@@ -1,5 +1,14 @@
 # VoiceBank-2023
-VoiceBank-2023 is the speech corpus specially designed for constructing personalized Mandarin text-to-speech (TTS) systems. 
+VoiceBank-2023 is the speech corpus designed to construct personalized Mandarin text-to-speech (TTS) systems. 
+
+## Authors
+* Speech and Multimedia Signal Processing Laboratory (SMSPLab), National Taipei University (NTPU), Taiwan
+   * Prof. Chen-Yu Chiang (corresponding author), cychiang@mail.ntpu.edu.tw
+   * Jia-Jyu SU, Pang-Chen LIAO, Yen-Ting LIN, Wu-Hao LI, and Pin-Han LIN
+* AcoustInTek Co., Ltd., Taiwan
+   * Cheng-Che KAO, Wei-Cheng CHEN, Jen-Chieh CHIANG, and Wen-Yang CHANG
+* National Yang Ming Chiao Tung University (NYCU), Taiwan
+   * Guan-Ting LIOU
 
 ## Design of the VoiceBank-2023
 The VoiceBank-2023 corpus was designed to have two parts with eight sub-corpora:
@@ -54,4 +63,7 @@ Here, we provide four zipped files of the corpus samples for four speakers with 
 
 
 ## Download Full VoiceBank-2023 Corpus
-The VoiceBank-2023 is available by request for non-commercial use. Please email to Prof. Chen-Yu Chiang, NTPU, Taiwan, for the request: cychiang@mail.ntpu.edu.tw
+The VoiceBank-2023 is available by request for non-commercial use. Please email Prof. Chen-Yu Chiang, NTPU, Taiwan, for the request: cychiang@mail.ntpu.edu.tw
+
+## Acknowledgment
+We thank the 61 voice donors for banking their voices in the Asia-Pacific Medical Students' Symposium (APMSS) 2022, hosted by the NTU College of Medicine, Taiwan. We also thank Prof. Jing-Yi, Jeng, NKNU, Taiwan, for providing Mandarin common phrases as the prompts on the VoiceBanking website, Prof. Sin-Horng Chen and Prof. Yih-Ru Wang of NYCU, Taiwan, for providing Treebank-SR corpus and the word tokenizer and POS tagger.
