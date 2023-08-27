@@ -46,12 +46,12 @@ The VoiceBank-2023 corpus was designed to have two parts with eight sub-corpora:
 
 
 ## Samples
-Here, we provide four zipped files for dysarthria degrees 1, 2, 3, and 4. Note that the waveforms provided have been pitch- and speed-shifted by some signal processing methods to remove speaker identities without destroying the naturalness of the speech. 
-1. dysarthria degree 1 (fluent speech without speech impairment)
-2. dysarthria degree 2 (disfluent in prosody)
-3. dysarthria degree 3 (light dysarthria but high speech intelligibility)
-4. dysarthria degree 4 (dysarthria and low speech intelligibility)
+Here, we provide four zipped files of the corpus samples for four speakers with dysarthria degrees 1, 2, 3, and 4. Note that the waveforms provided have been pitch- and speed-shifted by some signal processing methods to remove speaker identities without destroying the naturalness of the speech. 
+1. [download dysarthria degree 1 (fluent speech without speech impairment)](https://drive.google.com/file/d/1mlp1V1lHa8eXAuVkplAgGGvhuA4kCLB7/view?usp=drive_link)
+2. [download dysarthria degree 2 (disfluent in prosody)](https://drive.google.com/file/d/1KFTy3F74Qaed6fzn-X3OD68f8qOvlOma/view?usp=drive_link)
+3. [download dysarthria degree 3 (light dysarthria but high speech intelligibility)](https://drive.google.com/file/d/1eMBj8C6jnpvNJ6wTG79QhTWHzflVVZvb/view?usp=drive_link)
+4. [download dysarthria degree 4 (dysarthria and low speech intelligibility)](https://drive.google.com/file/d/13A-W9azsL0DZ1b-2nia7bV-ZXN2JrrdB/view?usp=drive_link)
 
 
-## Download
+## Download Full VoiceBank-2023 Corpus
 The VoiceBank-2023 is available by request for non-commercial use. Please email to Prof. Chen-Yu Chiang, NTPU, Taiwan, for the request: cychiang@mail.ntpu.edu.tw
