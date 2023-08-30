@@ -1,6 +1,6 @@
 # VoiceBank-2023
 VoiceBank-2023 is the speech corpus designed to construct personalized Mandarin text-to-speech (TTS) systems. See details in the paper
-[J.-J. Su et al., “VoiceBank-2023: A Multi-Speaker Mandarin Speech Corpus for Constructing Personalized TTS Systems for the Speech Impaired.” arXiv, Aug. 27, 2023. doi: 10.48550/arXiv.2308.14763.](https://doi.org/10.48550/arXiv.2308.14763)
+[Jia-Jyu Su, Pang-Chen Liao, Yen-Ting Lin, Wu-Hao Li, Guan-Ting Liou, Cheng-Che Kao, Wei-Cheng Chen, Jen-Chieh Chiang, Wen-Yang Chang, Pin-Han Lin, and Chen-Yu Chiang, “VoiceBank-2023: A Multi-Speaker Mandarin Speech Corpus for Constructing Personalized TTS Systems for the Speech Impaired.” arXiv, Aug. 27, 2023. doi: 10.48550/arXiv.2308.14763.](https://doi.org/10.48550/arXiv.2308.14763)
 
 ## Authors
 * Speech and Multimedia Signal Processing Laboratory (SMSPLab), National Taipei University (NTPU), Taiwan
@@ -64,7 +64,7 @@ Here, we provide four zipped files of the corpus samples for four speakers with 
 The VoiceBank-2023 is available by request for non-commercial use. Please email Prof. Chen-Yu Chiang, NTPU, Taiwan, for the request: cychiang@mail.ntpu.edu.tw
 
 ## Publication
-[J.-J. Su et al., “VoiceBank-2023: A Multi-Speaker Mandarin Speech Corpus for Constructing Personalized TTS Systems for the Speech Impaired.” arXiv, Aug. 27, 2023. doi: 10.48550/arXiv.2308.14763.](https://doi.org/10.48550/arXiv.2308.14763)
+[Jia-Jyu Su, Pang-Chen Liao, Yen-Ting Lin, Wu-Hao Li, Guan-Ting Liou, Cheng-Che Kao, Wei-Cheng Chen, Jen-Chieh Chiang, Wen-Yang Chang, Pin-Han Lin, and Chen-Yu Chiang, “VoiceBank-2023: A Multi-Speaker Mandarin Speech Corpus for Constructing Personalized TTS Systems for the Speech Impaired.” arXiv, Aug. 27, 2023. doi: 10.48550/arXiv.2308.14763.](https://doi.org/10.48550/arXiv.2308.14763)
 
 ## Acknowledgment
 We thank the 61 voice donors for banking their voices in the Asia-Pacific Medical Students' Symposium (APMSS) 2022, hosted by the NTU College of Medicine, Taiwan. We also thank Prof. Jing-Yi, Jeng, NKNU, Taiwan, for providing Mandarin common phrases as the prompts on the VoiceBanking website, Prof. Sin-Horng Chen and Prof. Yih-Ru Wang of NYCU, Taiwan, for providing Treebank-SR corpus and the word tokenizer and POS tagger.
